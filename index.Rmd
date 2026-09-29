@@ -1,9 +1,12 @@
 --- 
 title: "Ciencia abierta. ¿Cómo?"
 author: "José Luis Ulloa"
-date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Preámbulo {-}
 
+Esta plataforma fue creada para comprender qué es y como realizar ciencia abierta.
+El contenido de esta plataforma fue obtenida del curso "Fundamentals of Open Scholarship (Free Unbadged Version)" de la plataforma de ciencia abierta del Open Science Framework (OSF), publicado <a href="https://centerforopenscience.instructure.com/courses/276" target="_blank">aquí</a> 
+
+<p align="center">¡Que disfrutes de esta plataforma!</p>
