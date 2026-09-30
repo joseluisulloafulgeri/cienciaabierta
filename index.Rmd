@@ -1,6 +1,6 @@
 --- 
 title: "Ciencia abierta. ¿Cómo?"
-author: "José Luis Ulloa, Ángel Valezuela"
+author: "José Luis Ulloa, Ángel Valenzuela"
 site: bookdown::bookdown_site
 ---
 
